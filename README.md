@@ -6,7 +6,7 @@ TravelDestinations is a  dynamic frontend-based website built using HTML, CSS, a
 
 ⏺️FEATURES->
 Below are the key features and functionalities of the website:
-
+<img src="https://github.com/Neha-Sharma666/MISTAY--A-Travel-Website/blob/main/web.2.png" alt="MLBC">
 
 ➡️Dark Mode:
 The website offers a dark mode feature for enhanced user experience, allowing users to switch between light and dark themes based on their preferences. This feature enhances readability and reduces eye strain, particularly in low-light environments.
