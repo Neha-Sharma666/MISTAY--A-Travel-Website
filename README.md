@@ -1,6 +1,8 @@
 # MISTAY--A-Travel-Website
 ⏺️OVERVIEW->
 TravelDestinations is a  dynamic frontend-based website built using HTML, CSS, and JavaScript.offering a user-friendly interface with several interactive features.  It serves as a platform for exploring travel packages, stay options, and pricing across the globe. The website primarily focuses on travel packages, providing users with a comprehensive view of various destinations across the world.
+<img src="https://github.com/Neha-Sharma666/MISTAY--A-Travel-Website/blob/main/web.1.png" alt="MLBC">
+
 
 ⏺️FEATURES->
 Below are the key features and functionalities of the website:
